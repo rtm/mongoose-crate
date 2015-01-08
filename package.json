@@ -16,7 +16,6 @@
   },
   "dependencies": {
     "async": "^0.9",
-    "mmmagic": "^0.3",
     "check-types": "^1.2"
   },
   "devDependencies": {
