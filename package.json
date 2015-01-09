@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "async": "^0.9",
-    "check-types": "^2.2",
+    "check-types": "^2.2"
   },
   "devDependencies": {
     "coveralls": "^2.8",
